@@ -1,0 +1,43 @@
+[
+    {
+        "token":"Black Cow",
+        "price":"75000.0",
+        "weight":"5 mann",
+        "race":"brahman",
+        "teeth":"2",
+        "age":"3 years",
+        "color":"black",
+        "gender":"male",
+        "vaccinated":"true",
+        "images":[{
+            "public_id":"produ/kajshdkjashdk",
+            "url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fcow&psig=AOvVaw1rV_AgZoHnK5qlka45G7gw&ust=1628845267635000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCy3crMqvICFQAAAAAdAAAAABAD"
+        }],
+        "category":"Cows",
+        "stock":"1",
+        "numOfReviews":"4",
+        "reviews": []
+        
+    },
+    {
+        "token":"White Cow",
+        "price":"755000.0",
+        "weight":"10 mann",
+        "race":"brahman",
+        "teeth":"4",
+        "age":"5 years",
+        "color":"white",
+        "gender":"female",
+        "vaccinated":"false",
+        "images":[{
+            "public_id":"produ/kajshdkjashdk",
+            "url":"htttp;///adsdasdsd.j"
+        }],
+        "category":"Goats",
+        "stock":"0",
+        "numOfReviews":"14",
+        "reviews": []
+
+        
+    }
+]
